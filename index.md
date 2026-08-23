@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/images/Main-Performance.jpg" | relative_url }}" class="floatpic" alt="Junxiong Lai">
+<img src="{{ "/images/Profile-show.jpg" | relative_url }}" class="floatpic" alt="Junxiong Lai">
 
 <br>I am **Junxiong Lai（Austin，赖俊熊）**, an undergraduate at [Fuzhou University](https://www.fzu.edu.cn/) (Sep 2023 – Jul 2027), majoring in **Resource Exploration Engineering** and minoring in **Finance**.
 

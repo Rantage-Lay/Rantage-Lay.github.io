@@ -10,6 +10,33 @@ title: Hobbies
 
 Football has always been an important part of my life. I have reached the **China National Second-Class Athlete Standard** and represented Fuzhou University in campus football leagues, winning the **First Prize** of the Fujian Province College Campus Football League (2025) and the **Third Prize** of the National College Campus Football League (2024).
 
+<style>
+.football-row {
+  display: flex;
+  gap: 12px;
+  margin: 12px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.football-row img {
+  flex: 1 1 auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px;
+}
+.football-row.single img { max-width: 420px; }
+</style>
+
+<div class="football-row single">
+  <img src="{{ "/images/football-2025.jpg" | relative_url }}" alt="Football 2025">
+</div>
+<div class="football-row">
+  <img src="{{ "/images/football-2024-main.jpg" | relative_url }}" alt="Football 2024">
+  <img src="{{ "/images/football-personal.jpg" | relative_url }}" alt="Football personal">
+  <img src="{{ "/images/Football-Certificate.jpg" | relative_url }}" alt="Football certificate">
+</div>
+
 Beyond football, I enjoy staying active through other sports.
 
 ## Workshop & Public Speaking
@@ -23,12 +50,3 @@ Beyond football, I enjoy staying active through other sports.
 
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
