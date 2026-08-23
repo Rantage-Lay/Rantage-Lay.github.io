@@ -1,17 +1,32 @@
 ---
 layout: page
 permalink: /cn/index.html
-title: Junxiong Lai 的个人主页
+title: 赖俊熊 的个人主页
 ---
 
 ## 关于我
 
-<img src="{{ "/images/Main-Performance.jpg" | relative_url }}" class="floatpic" alt="Junxiong Lai">
+<img src="{{ "/images/Profile-show.jpg" | relative_url }}" class="floatpic" alt="Junxiong Lai">
 
-<br>我是 **赖俊熊**，[福州大学](https://www.fzu.edu.cn/)本科生（2023.09 – 2027.07），主修资源勘查工程，辅修金融学。
+<br>我是 **赖俊熊（Junxiong Lai，Austin）**，[福州大学](https://www.fzu.edu.cn/)本科生（2023.09 – 2027.07），主修**资源勘查工程**，辅修**金融学**。
 
-<br>我具备工科与金融的复合背景，能熟练使用 Wind、iFind、Choice 等金融数据库及 Stata、ArcGIS、Python 等工具，擅长财务建模、DCF 估值与数据可视化。我曾在私募基金、证券、矿业、会计师事务所等多个行业实习，并多次在商赛中获国家级奖项。
+<br>我具备工科与金融的复合背景，能熟练使用 Wind、iFind、Choice 等金融数据库以及 Stata、ArcGIS、Python 等工具，擅长财务建模、DCF 估值与数据可视化。我曾在私募基金、证券、矿业、会计师事务所等多个行业完成实习，并带领团队多次获得国家级竞赛奖项。
 
 <br>**邮箱：** 1919579502@qq.com · **电话：** +86-18183859970 · **所在地：** 云南昆明
 
-<br>
+---
+
+## 研究兴趣
+
+- 低碳技术的空间溢出效应与区域碳减排
+- 矿产资源估值与技术经济评价
+- 财务建模、DCF 估值与行业研究
+- ESG 与可持续金融
+
+---
+
+## 新闻与动态
+
+- **2026 年 3–5 月：** 在第五届中国未来金融分析师大赛中位列 **前 2%（全国前 60 名）**。
+- **2025 年 9–12 月：** 在第四届毕马威（KPMG）ESG 案例分析大赛中位列 **前 3%（全国前 81 名）**。
+- **2025 年 8 月：** 主持低碳技术空间溢出效应研究项目，论文已投稿至 *Sustainability*。
