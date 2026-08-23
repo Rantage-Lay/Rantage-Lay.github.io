@@ -10,7 +10,7 @@ layout: page
 
 <br>My background bridges engineering and finance. I am skilled with financial databases (Wind, iFind, Choice) and tools such as Stata, ArcGIS, and Python, and experienced in financial modeling, DCF valuation, and data visualization. I have completed internships across asset management, securities, mining, and accounting, and have led business competitions to multiple national awards.
 
-<br>**Email:** 1919579502@qq.com · **Phone:** +86-18183859970 · **Location:** Kunming, Yunnan, China
+<br>**Email:** Junxiong_Lay@Outlook.com · **Phone:** +86-18183859970 · **Location:** Kunming, Yunnan, China
 
 ---
 
