@@ -1,10 +1,5 @@
 {
-  "build": {
-    "env": {
-      "RUBY_VERSION": "3.3"
-    }
-  },
+  "installCommand": "bundle install",
   "buildCommand": "bundle exec jekyll build",
-  "outputDirectory": "_site",
-  "installCommand": "bundle install"
+  "outputDirectory": "_site"
 }
