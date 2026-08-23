@@ -20,7 +20,8 @@ title: Awards
   <div class="award-meta">
     <strong>Mar – May 2026: Top 2% (National Top 60)</strong> in the 5th China Future Financial Analysts Competition<br>
     <em>As team lead, built an energy-storage credit-scoring model (ESCS) based on the Analytic Hierarchy Process (AHP); the rating scheme was selected among the top 60 reports by the CFA Institute.</em><br>
-    <a href="https://mp.weixin.qq.com/s/aWziQhEPRYIYsKuatrNSgg" target="_blank" rel="noopener">View the award announcement →</a>
+    <strong>Team:</strong> 消灭一队是一队<br>
+    <a href="https://mp.weixin.qq.com/s/aWziQhEPRYIYsKuatrNSgg#:~:text=%E4%BB%A5%E4%B8%8B%E4%B8%BA%E5%89%8D60,%E5%90%91%E4%B8%8A%E6%BB%91%E5%8A%A8%E9%98%85%E8%A7%88" target="_blank" rel="noopener">View the award announcement →</a>
   </div>
   <img src="{{ "/images/CFA-Certificate.png" | relative_url }}" alt="CFA Certificate">
 </div>
@@ -29,6 +30,7 @@ title: Awards
   <div class="award-meta">
     <strong>Sep – Dec 2025: Top 3% (National Top 81)</strong> in the 4th KPMG ESG Case Analysis Competition<br>
     <em>As team lead, designed a three-year carbon-reduction plan for a Hong Kong listed company; the business plan achieved positive NPV with 62% IRR and 17.71% ROI, cutting total emissions by 72%.</em><br>
+    <strong>Team:</strong> FZU Sustainable Pioneers<br>
     <a href="https://mp.weixin.qq.com/s/kY9VUQEN7bIBuiVO-6YRkQ" target="_blank" rel="noopener">View the award announcement →</a>
   </div>
   <img src="{{ "/images/KPMG-Certificate.png" | relative_url }}" alt="KPMG Certificate">

@@ -15,17 +15,22 @@ Football has always been an important part of my life. I have reached the **Chin
   display: flex;
   gap: 12px;
   margin: 12px 0;
-  flex-wrap: wrap;
   justify-content: center;
 }
 .football-row img {
-  flex: 1 1 auto;
+  flex: 1 1 0;
+  min-width: 0;
   max-width: 100%;
-  height: auto;
+  height: 240px;
   object-fit: cover;
   border-radius: 6px;
 }
-.football-row.single img { max-width: 420px; }
+.football-row.single img {
+  flex: 0 1 auto;
+  max-width: 420px;
+  height: auto;
+  object-fit: contain;
+}
 </style>
 
 <div class="football-row single">
