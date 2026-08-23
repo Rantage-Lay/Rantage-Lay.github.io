@@ -1,35 +1,35 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+title: Junxiong Lai   # Main site title (appears in browser tab & RSS)
+tagline: Here is the personal website of Junxiong Lai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Here is the personal website of Junxiong Lai.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://Rantage-Lay.github.io   # 你的 GitHub Pages 免费域名（未买自定义域名前先用它；本地预览如需全相对链接可临时注释掉）
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: cam_logo.png   # 剑桥校徽（正方形）
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  name: Junxiong Lai
+  avatar: JunxiongLai.jpg   # 侧栏头像（展示在左侧栏 bio-photo 的照片）
+  bio: Undergraduate at Fuzhou University (Resource Exploration Engineering & Finance) with cross-disciplinary experience across asset management, securities, mining, and accounting.
+  email: Junxiong_Lay@outlook.com   
+  # cv: https://Rantage-Lay.github.io/file/CV-JunxiongLai.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  instagram: lancecai2002
-  bilibili: 594030035
-  # facebook: caihanlin2002
+  # twitter: YOUR_ID
+  github: Rantage-Lay
+  linkedin: junxionglai
+  # scholar: https://scholar.google.com/citations?user=YOUR_ID
+  # researchgate: https://www.researchgate.net/profile/YOUR_PROFILE
+  # zhihu: https://www.zhihu.com/people/YOUR_ID
+  # xiaohongshu: YOUR_ID
+  instagram: xiong.lay
+  # bilibili: YOUR_UID
+  # facebook: YOUR_ID
   # lastfm:
   # tumblr:
 
@@ -37,9 +37,9 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: ""    # 站长平台验证码，需要时再填
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurement ID (used by _includes/gtag.html)
+# google_analytics: ""                                 # GA-4 measurement ID (used by _includes/gtag.html)
 
 
 # --------------------------------------------------
@@ -51,14 +51,12 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Services
-    url: /services/
+  - title: Internships
+    url: /internships/
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
   - title: 中文
     url: /cn/
   # - title: AI4Wellbening
@@ -101,8 +99,8 @@ kramdown:
 # --------------------------------------------------
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: your_disqus_shortname
 
 
 # include: [".htaccess"]

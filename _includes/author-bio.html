@@ -1,4 +1,4 @@
-<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="University of Cambridge">
+<img src="{{ site.owner.avatar | prepend: '/images/' | relative_url }}" class="bio-photo" alt="{{ site.owner.name }}">
 
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
@@ -6,7 +6,7 @@
 
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
-{% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="17" height="17"></i> My CV</a></p>{% endif %}
+{% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="{{ "/images/logo/icons8-cv-100.png" | relative_url }}" width="17" height="17"></i> My CV</a></p>{% endif %}
 
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 
@@ -26,12 +26,12 @@
 
 {% if site.owner.scholar %}<p style="text-indent:0;"><a href="{{ site.owner.scholar }}"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>{% endif %}
 
-{% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate }}"><img src="https://caihanlin.com/images/logo/icons8-rg.png" width="13.2" height="13.2"></i> ResearchGate</a></p>{% endif %}
+{% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate }}"><img src="{{ "/images/logo/icons8-rg.png" | relative_url }}" width="13.2" height="13.2"></i> ResearchGate</a></p>{% endif %}
 
-{% if site.owner.zhihu %}<p style="text-indent:0;"><a href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" width="16.8" height="16.8"></i> Zhihu</a></p>{% endif %}
+{% if site.owner.zhihu %}<p style="text-indent:0;"><a href="{{ site.owner.zhihu }}"><img src="{{ "/images/logo/icons8-zhihu-96.png" | relative_url }}" width="16.8" height="16.8"></i> Zhihu</a></p>{% endif %}
 
-{% if site.owner.xiaohongshu %}<p style="text-indent:0;"><a href="https://www.xiaohongshu.com/user/profile/{{site.owner.xiaohongshu}}"><img src="https://caihanlin.com/images/logo/xiaohongshu.png" width="14.6" height="14.6"></i> RedNote</a></p>{% endif %}
+{% if site.owner.xiaohongshu %}<p style="text-indent:0;"><a href="https://www.xiaohongshu.com/user/profile/{{site.owner.xiaohongshu}}"><img src="{{ "/images/logo/xiaohongshu.png" | relative_url }}" width="14.6" height="14.6"></i> RedNote</a></p>{% endif %}
 
-{% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="14.5" height="14.5"></i> Bilibili</a></p>{% endif %}
+{% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="{{ "/images/logo/icons8-retro-tv-100.png" | relative_url }}" width="14.5" height="14.5"></i> Bilibili</a></p>{% endif %}
 
 <!-- Lastly modified by Hanlin CAI in 2023/10/15 -->
