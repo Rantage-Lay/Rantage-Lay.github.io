@@ -4,6 +4,8 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+**Lastest Update: Aug 2026**
+
 <style>
 .award { display: flex; align-items: flex-start; gap: 16px; margin-bottom: 1.2em; }
 .award-meta { flex: 1 1 auto; min-width: 0; }
