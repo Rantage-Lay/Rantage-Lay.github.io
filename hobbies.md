@@ -39,10 +39,10 @@ Football has always been an important part of my life. I have reached the **Chin
   -webkit-overflow-scrolling: touch;
 }
 .public-scroll img {
-  height: 200px;
-  width: 280px;
+  height: 220px;
+  width: auto;
   flex: 0 0 auto;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 6px;
 }
 </style>
