@@ -16,13 +16,13 @@ Football has always been an important part of my life. I have reached the **Chin
   gap: 12px;
   margin: 12px 0;
   justify-content: center;
+  overflow-x: auto;
 }
 .football-row img {
-  flex: 1 1 0;
-  min-width: 0;
-  max-width: 100%;
-  height: 240px;
-  object-fit: cover;
+  flex: 0 0 auto;
+  height: 250px;
+  width: auto;
+  object-fit: contain;
   border-radius: 6px;
 }
 .football-row.single img {
