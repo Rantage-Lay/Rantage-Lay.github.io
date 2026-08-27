@@ -34,8 +34,10 @@ layout: page
 - **Oct 2025:** Completed the **Forage J.P. Morgan Investment Banking Job Simulation**.
 - **Oct 2025:** Completed the **AmplifyME Finance Accelerator**.
 - **2025:** Received the **Third-Class Comprehensive Scholarship** (Autumn Semester), Fuzhou University.
-- **2024:** Won the **Provincial First Prize (3rd in Fujian)** in the Fujian College Student Football League.
-- **2023 – 2024:** Won the **National Third Prize (16th Nationwide)** in the China University Campus Football League (Men's High-Level Group, Tier 2).
+- **2025:** Received the **Spiritual Civilization Award (Sports)** of Fuzhou University.
+- **2024:** Won the **Provincial Third Prize** in the **Fujian College Student Futsal League**.
+- **2024:** Won the **Provincial Third Prize** in the **Fujian College Student Football League**.
+- **2023 – 2024:** Won the **National Third Prize** in the **China University Campus Football League** (Men's High-Level Group, Tier 2).
 - **Jul 2021:** Certified as a **National Second-Level Sportsperson**.
 
 

@@ -63,7 +63,9 @@ title: Awards
 
 <ul>
   <li>2025：<strong>First Prize</strong>, <strong>Fujian Province College Campus Football League</strong></li>
-  <li>2024：<strong>Third Prize</strong>, <strong>National College Campus Football League</strong></li>
+  <li>2024：<strong>Third Prize</strong>, <strong>Fujian College Student Futsal League</strong></li>
+  <li>2024：<strong>Third Prize</strong>, <strong>Fujian College Student Football League</strong></li>
+  <li>2023 – 2024：<strong>Third Prize</strong>, <strong>China University Campus Football League</strong> (Men's High-Level Group, Tier 2)</li>
 </ul>
 
 <div class="cert-scroll">
