@@ -6,7 +6,7 @@ layout: page
 
 <img src="{{ "/images/Profile-show.jpg" | relative_url }}" class="floatpic" alt="Junxiong Lai">
 
-<br>I am Junxiong Lai, an undergraduate student in the Class of 2027 at Fuzhou University, majoring in Resource Exploration Engineering with a minor in Finance. Under the supervision of Prof. Ping Chen, I am currently conducting research on life cycle assessment (LCA) and techno-economic assessment (TEA) of the mining stage of clay-type lithium deposits. I am also fortunate to participate in research on the resource recovery of metallurgical solid waste from ionic rare-earth ores, supported by the National Key Research and Development Program of China and the National Natural Science Foundation of China. My work primarily focuses on LCA and TEA for the reduction and treatment of acid-insoluble residues from ionic rare-earth ores and the recovery of valuable elements.
+<br>I am **Junxiong Lai（赖俊熊）**, an undergraduate student in the Class of 2027 at [Fuzhou University](https://www.fzu.edu.cn/), majoring in Resource Exploration Engineering with a minor in Finance. Under the supervision of [Prof. Ping Chen（陈平）](https://scholar.google.com/citations?user=Chks4g0AAAAJ&hl=en), I am currently conducting research on life cycle assessment (LCA) and techno-economic assessment (TEA) of the mining stage of clay-type lithium deposits. I am also fortunate to participate in research on the resource recovery of metallurgical solid waste from ionic rare-earth ores, supported by the National Key Research and Development Program of China and the National Natural Science Foundation of China. My work primarily focuses on LCA and TEA for the reduction and treatment of acid-insoluble residues from ionic rare-earth ores and the recovery of valuable elements.
 
 <br>Meanwhile, I have led research on the spatial spillover effects of Carbon-Neutral Technology Innovation (CNTI) across Chinese provinces and its spatiotemporal dynamics using Geographically and Temporally Weighted Regression (GTWR). My research on dynamic monitoring of ecological disturbance in mining areas through the integration of remote sensing, GIS, and machine learning has also been accepted by the 4th International Conference on Remote Sensing, Mapping and Geographic Information Systems (RSMG 2026) and is expected to be published in October 2026.
 
@@ -29,8 +29,13 @@ layout: page
 
 ## News and Updates
 
-- **Mar – May 2026:** Ranked **Top 2% (National Top 60)** in the 5th China Future Financial Analysts Competition.
-- **Sep – Dec 2025:** Ranked **Top 3% (National Top 81)** in the 4th KPMG ESG Case Analysis Competition.
-- **Aug 2025:** Leading a research project on spatial spillover effects of low-carbon technology; paper submitted to *Sustainability*.
+- **May 2026:** Ranked **Top 2% (National Top 60)** in the **5th China Future Financial Analysts Competition**.
+- **Dec 2025:** Ranked **Top 3% (National Top 81)** in the **4th KPMG ESG Case Analysis Competition**.
+- **Oct 2025:** Completed the **Forage J.P. Morgan Investment Banking Job Simulation**.
+- **Oct 2025:** Completed the **AmplifyME Finance Accelerator**.
+- **2025:** Received the **Third-Class Comprehensive Scholarship** (Autumn Semester), Fuzhou University.
+- **2024:** Won the **Provincial First Prize (3rd in Fujian)** in the Fujian College Student Football League.
+- **2023 – 2024:** Won the **National Third Prize (16th Nationwide)** in the China University Campus Football League (Men's High-Level Group, Tier 2).
+- **Jul 2021:** Certified as a **National Second-Level Sportsperson**.
 
 
