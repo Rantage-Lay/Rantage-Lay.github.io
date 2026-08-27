@@ -37,7 +37,7 @@ title: Internships
 <div class="internship">
   <div class="internship-head">
     <div class="internship-meta">
-      <h3>Pinestone Asset</h3>
+      <h3><a href="https://www.pinestoneasset.com/" target="_blank" rel="noopener">Pinestone Asset</a></h3>
       <div class="internship-cn">磐松私募基金管理有限公司</div>
       <div class="internship-role">Product Manager Intern</div>
       <div class="internship-loc">Shanghai, China · Jul 2026 – Present</div>
@@ -55,7 +55,7 @@ title: Internships
 <div class="internship">
   <div class="internship-head">
     <div class="internship-meta">
-      <h3>Zijin Mining Group Co., Ltd.</h3>
+      <h3><a href="https://www.zijinmining.com/" target="_blank" rel="noopener">Zijin Mining Group Co., Ltd.</a></h3>
       <div class="internship-cn">紫金矿业集团股份有限公司</div>
       <div class="internship-role">Geological Exploration Institute Intern</div>
       <div class="internship-loc">Longyan, Fujian, China · Apr 2026 – Jun 2026</div>
@@ -73,7 +73,7 @@ title: Internships
 <div class="internship">
   <div class="internship-head">
     <div class="internship-meta">
-      <h3>Zhongtai Securities Co., Ltd.</h3>
+      <h3><a href="https://www.zts.com.cn/" target="_blank" rel="noopener">Zhongtai Securities Co., Ltd.</a></h3>
       <div class="internship-cn">中泰证券股份有限公司</div>
       <div class="internship-role">Equity Research Intern</div>
       <div class="internship-loc">Remote · Nov 2025 – Apr 2026</div>
@@ -91,7 +91,7 @@ title: Internships
 <div class="internship">
   <div class="internship-head">
     <div class="internship-meta">
-      <h3>Grant Thornton (Special General Partnership), Yunnan Branch</h3>
+      <h3><a href="https://www.grantthornton.cn/" target="_blank" rel="noopener">Grant Thornton (Special General Partnership), Yunnan Branch</a></h3>
       <div class="internship-cn">致同会计师事务所（特殊普通合伙）云南分所</div>
       <div class="internship-role">Audit Intern</div>
       <div class="internship-loc">Kunming, Yunnan, China · Jan 2026 – Feb 2026</div>
@@ -109,7 +109,7 @@ title: Internships
 <div class="internship">
   <div class="internship-head">
     <div class="internship-meta">
-      <h3>Zhejiang Public Offering and M&amp;A Association</h3>
+      <h3><a href="http://www.zimaa.cn/" target="_blank" rel="noopener">Zhejiang Public Offering and M&amp;A Association</a></h3>
       <div class="internship-cn">浙江省上市与并购联合会</div>
       <div class="internship-role">M&amp;A Analyst</div>
       <div class="internship-loc">Hangzhou, Zhejiang, China · Jul 2025 – Sep 2025</div>
@@ -121,5 +121,23 @@ title: Internships
     <li>Cleaned data and analyzed the value and future significance of M&amp;A deals of A-share listed companies.</li>
     <li>Analyzed 5 delisting cases triggered by M&amp;A, focusing on goodwill impairment as the key entry point, to inform future M&amp;A deals.</li>
     <li>Analyzed the value rationality and future profitability expectations of M&amp;A deals in light of macroeconomic trends and industry characteristics.</li>
+  </ul>
+</div>
+
+<div class="internship">
+  <div class="internship-head">
+    <div class="internship-meta">
+      <h3><a href="https://about.eastmoney.com/" target="_blank" rel="noopener">East Money Information Co., Ltd.</a></h3>
+      <div class="internship-cn">东方财富信息股份有限公司</div>
+      <div class="internship-role">Business Development Intern / Campus Partner</div>
+      <div class="internship-loc">Fuzhou, China · May 2025 – Aug 2025</div>
+    </div>
+    <img class="internship-logo" src="{{ "/images/Eastmoney Securities_logo.png" | relative_url }}" alt="East Money logo">
+  </div>
+  <ul>
+    <li>Conducted demand research among 700+ on-campus users with financial interests, independently drafted a 7,000+ word project proposal, which was approved by both the company and the university.</li>
+    <li>Liaised with the university Youth League Committee and the Securities &amp; Futures Association to coordinate venues and materials, facilitating the on-campus launch of the "11th National College Student Financial Challenge"; completed the entire process from application to execution within just half a month.</li>
+    <li>Produced weekly competition data reports, analyzing operational effectiveness through metrics such as user activity and retention rates, and optimized community engagement strategies; ultimately attracted 200+ students to participate, ranking the university among the top 10 in South China for participant scale.</li>
+    <li>Managed a 300+ member competition community independently, daily sharing industry insights and competition guides, and was awarded the title of Outstanding Campus Partner by the company.</li>
   </ul>
 </div>
