@@ -35,6 +35,7 @@ layout: page
 - **Oct 2025:** Completed the **AmplifyME Finance Accelerator**.
 - **2025:** Received the **Third-Class Comprehensive Scholarship** (Autumn Semester), Fuzhou University.
 - **2025:** Received the **Spiritual Civilization Award (Sports)** of Fuzhou University.
+- **2024:** Won the **First Prize** in the **Fujian Province College Campus Football League**.
 - **2024:** Won the **Provincial Third Prize** in the **Fujian College Student Futsal League**.
 - **2024:** Won the **Provincial Third Prize** in the **Fujian College Student Football League**.
 - **2023 – 2024:** Won the **National Third Prize** in the **China University Campus Football League** (Men's High-Level Group, Tier 2).
