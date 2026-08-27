@@ -20,10 +20,10 @@ layout: page
 
 ## Research Interests
 
-- Spatial spillover effects of low-carbon technology and regional carbon reduction
-- Mineral resource valuation and techno-economic assessment
-- Financial modeling, DCF valuation, and industry research
-- ESG and sustainable finance
+- Geochemistry and Geoscience Big Data; Applied Machine Learning
+- Life Cycle Assessment (LCA) and Techno-Economic Assessment (TEA)
+- Geospatial Data Science; Remote Sensing and Geographic Information Systems (GIS)
+- Spatial Econometrics (GWR, GTWR and MGWR)
 
 ---
 
