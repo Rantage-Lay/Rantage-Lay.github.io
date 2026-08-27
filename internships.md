@@ -22,15 +22,20 @@ title: Internships
 .internship-cn { color: #666; font-size: 0.92em; margin-bottom: 0.3em; }
 .internship-role { font-weight: 600; margin-bottom: 0.05em; }
 .internship-loc { color: #888; font-size: 0.95em; }
+.internship-meta h3 a {
+  text-decoration: underline dotted;
+  text-underline-offset: 4px;
+}
 .internship-logo {
   flex: 0 0 auto;
-  height: 48px;
-  width: auto;
+  width: 171px;
+  height: auto;
   max-width: 100%;
+  object-fit: contain;
 }
 @media (max-width: 620px) {
   .internship-head { flex-direction: column; align-items: flex-start; }
-  .internship-logo { order: -1; height: 38px; margin-bottom: 8px; }
+  .internship-logo { order: -1; width: 120px; height: auto; margin-bottom: 8px; }
 }
 </style>
 
