@@ -83,7 +83,7 @@ title: Publications
 
 <div class="pub-meta">
   <strong>Time:</strong> Jan 2026 – Present<br>
-  <strong>Authors:</strong> Peiyuan Xu, Junxiong Lai, Lijie Liu*, Wenyuan Liu*<br>
+  <strong>Authors:</strong> Peiyuan Xu, Junxiong Lai, Lijie Liu*, Xunyu Hu, Wenyuan Liu<br>
   <strong>Venue:</strong> Journal of Geochemical Exploration (JCR Q1, IF=4.6, manuscript submitted)<br>
   <strong>Summary:</strong> This study applies seven machine-learning models (SVM, MLP, TabPFN, HyperFast, FT-Transformer, TabR and CatBoost) to 2,269 pyrite trace-element datasets collected from 17 representative HS–IS–LS epithermal gold deposits worldwide to discriminate deposit subtypes. All models achieve accuracy above 93%, with TabPFN, CatBoost and FT-Transformer exceeding 95%. SHAP analysis identifies Cu, Au, Mo, Sb, Te and Ni as the core discriminant elements.
 </div>
