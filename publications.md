@@ -101,13 +101,13 @@ title: Publications
 
 ---
 
-<h3 class="pub-title"><span class="pub-bullet"></span>How Does R&D Investment Shape Carbon-Neutral Technology Innovation Across Chinese Provinces? — State Transitions, Spatial Spillovers, and Local Spatio-Temporal Heterogeneity</h3>
+<h3 class="pub-title"><span class="pub-bullet"></span>Ripples Across Regions: How Does R&D Investment Shape Carbon-Neutral Technology Innovation in China?</h3>
 
 <div class="pub-meta">
   <strong>Time:</strong> Aug 2025 – Now<br>
-  <strong>Authors:</strong> Junxiong Lai, Le Huang, Ziyi Shi*, ZeKun Su<br>
-  <strong>Venue:</strong> Clean Technologies and Environmental Policy (JCR Q2, IF=5.1, manuscript finished)<br>
-  <strong>Summary:</strong> Based on panel data of 31 Chinese provincial regions (2014–2023) and CPC Y02 patent applications as the measure of carbon-neutral technology innovation (CNTI), this study links spatial Markov chains, the spatial Durbin model (SDM) and geographically and temporally weighted regression (GTWR). We found that provincial CNTI exhibits strong path dependence and state persistence; R&D investment has a significant positive local effect and an even more prominent positive cross-regional spillover; when the innovation measure shifts from patent applications to invention grants, the local effect persists while the cross-regional effect turns negative; and the R&D–CNTI linkage is markedly spatio-temporally non-stationary.
+  <strong>Authors:</strong> Le Huang†, Zekun Su†, Junxiong Lai†, Ziyi Shi*<br>
+  <strong>Venue:</strong> Scientific Reports (JCR Q1, IF=3.8, manuscript submitted)<br>
+  <strong>Summary:</strong> Using panel data for 31 provincial-level regions of mainland China (2014–2023) and CPC Y02 patent applications as the measure of carbon-neutral technology innovation (CNTI), this study integrates spatial Markov chains, the spatial Durbin model and geographically and temporally weighted regression. We found that provincial CNTI exhibits significant positive spatial correlation and strong path dependence, and that medium-innovation provinces are more likely to transition upward in higher-innovation neighborhoods. R&D investment is positively associated with local innovation, while positive cross-regional spillovers are more pronounced than the direct local effect, and these effects remain robust under alternative innovation measures; local associations are generally positive, with non-stationarity concentrated mainly over time.
 </div>
 
 <div class="pub-figs pub-pair">
@@ -121,4 +121,4 @@ title: Publications
   </figure>
 </div>
 
-\* Corresponding author.
+† These authors contributed equally (co-first authors). * Corresponding author.
