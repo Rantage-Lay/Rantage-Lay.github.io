@@ -42,10 +42,28 @@ title: Internships
 <div class="internship">
   <div class="internship-head">
     <div class="internship-meta">
+      <h3><a href="https://www.xiangyu-group.com/en" target="_blank" rel="noopener">Xiamen Xiangyu Co., Ltd.</a></h3>
+      <div class="internship-cn">象屿股份有限公司</div>
+      <div class="internship-role">Mining Rights Investment Intern</div>
+      <div class="internship-loc">Xiamen, Fujian, China · Sep 2026 – Present</div>
+    </div>
+    <img class="internship-logo" src="{{ "/images/XMXY-Logo.jpg" | relative_url }}" alt="Xiamen Xiangyu logo">
+  </div>
+  <ul>
+    <li>Conducted mining industry research within the Resources Business Division to support the Group's upstream supply-chain positioning, producing industry reports on antimony, lead and other mineral commodities and assessing mining rights investment targets.</li>
+    <li>Prepared an investment assessment report and preliminary recommendation for an iron ore project in Guangdong, evaluating it item by item against five investment criteria and a ten-point mining rights appraisal framework; identified compliance risks involving nature reserves and ecological public welfare forests, and delivered a due-diligence checklist and assessment roadmap.</li>
+    <li>Completed commodity research and in-depth reports on China's antimony and fluorspar sectors, distilling three investment rationales—scarcity, policy attributes and vertical integration—and establishing screening criteria covering resource reserves, grade and metallurgy, and policy and environmental compliance.</li>
+    <li>Produced an investment assessment report for an antimony–fluorspar associated mineral belt project in Yunnan; drawing on detailed exploration reports, identified substantial potential for further advancement while accounting for constraints such as reservoir inundation and shoreline management within water source protection areas, and concluded with a conditional follow-up recommendation.</li>
+  </ul>
+</div>
+
+<div class="internship">
+  <div class="internship-head">
+    <div class="internship-meta">
       <h3><a href="https://www.pinestoneasset.com/" target="_blank" rel="noopener">Pinestone Asset</a></h3>
       <div class="internship-cn">磐松私募基金管理有限公司</div>
       <div class="internship-role">Product Manager Intern</div>
-      <div class="internship-loc">Shanghai, China · Jul 2026 – Present</div>
+      <div class="internship-loc">Shanghai, China · Jul 2026 – Sep 2026</div>
     </div>
     <img class="internship-logo" src="{{ "/images/pinestoneasset_log.png" | relative_url }}" alt="Pinestone Asset logo">
   </div>
