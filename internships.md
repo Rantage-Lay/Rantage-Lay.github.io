@@ -4,7 +4,7 @@ permalink: /internships/index.html
 title: Internships
 ---
 
-**Lastest Update: Aug 2026**
+**Lastest Update: Oct 2026**
 
 ## Internship Experience
 

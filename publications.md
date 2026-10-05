@@ -50,7 +50,7 @@ title: Publications
 }
 </style>
 
-**Lastest Update: Aug 2026**
+**Lastest Update: Oct 2026**
 
 <h2 class="pub-section-head">Research Papers</h2>
 
