@@ -84,7 +84,7 @@ title: Publications
 <div class="pub-meta">
   <strong>Time:</strong> Jan 2026 – Present<br>
   <strong>Authors:</strong> Peiyuan Xu, Junxiong Lai, Lijie Liu*, Xunyu Hu, Wenyuan Liu<br>
-  <strong>Venue:</strong> Journal of Geochemical Exploration (JCR Q1, IF=4.6, manuscript submitted)<br>
+  <strong>Venue:</strong> Journal of Geochemical Exploration (JCR Q1, IF=4.6, under review)<br>
   <strong>Summary:</strong> This study applies seven machine-learning models (SVM, MLP, TabPFN, HyperFast, FT-Transformer, TabR and CatBoost) to 2,269 pyrite trace-element datasets collected from 17 representative HS–IS–LS epithermal gold deposits worldwide to discriminate deposit subtypes. All models achieve accuracy above 93%, with TabPFN, CatBoost and FT-Transformer exceeding 95%. SHAP analysis identifies Cu, Au, Mo, Sb, Te and Ni as the core discriminant elements.
 </div>
 
@@ -106,7 +106,7 @@ title: Publications
 <div class="pub-meta">
   <strong>Time:</strong> Aug 2025 – Present<br>
   <strong>Authors:</strong> Le Huang†, Zekun Su†, Junxiong Lai†, Ziyi Shi*<br>
-  <strong>Venue:</strong> Scientific Reports (JCR Q1, IF=4.9, manuscript submitted)<br>
+  <strong>Venue:</strong> Scientific Reports (JCR Q1, IF=4.9, under review)<br>
   <strong>Summary:</strong> Using panel data for 31 provincial-level regions of mainland China (2014–2023) and CPC Y02 patent applications as the measure of carbon-neutral technology innovation (CNTI), this study integrates spatial Markov chains, the spatial Durbin model and geographically and temporally weighted regression. We found that provincial CNTI exhibits significant positive spatial correlation and strong path dependence, and that medium-innovation provinces are more likely to transition upward in higher-innovation neighborhoods. R&D investment is positively associated with local innovation, while positive cross-regional spillovers are more pronounced than the direct local effect, and these effects remain robust under alternative innovation measures; local associations are generally positive, with non-stationarity concentrated mainly over time.
 </div>
 
