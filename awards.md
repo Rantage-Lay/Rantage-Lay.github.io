@@ -78,6 +78,7 @@ title: Awards
 
 <ul>
   <li>2025 – 2026：<strong>Spiritual Civilization Award (Sports)</strong> of Fuzhou University</li>
+  <li>2026：<strong>Third-Class Comprehensive Scholarship</strong> (Spring semester), Fuzhou University</li>
   <li>2025：<strong>Third-Class Comprehensive Scholarship</strong> (Fall semester), Fuzhou University</li>
   <li><strong>National Second-Class Athlete</strong> (China)</li>
 </ul>
