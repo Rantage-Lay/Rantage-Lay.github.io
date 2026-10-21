@@ -50,10 +50,10 @@ title: Internships
     <img class="internship-logo" src="{{ "/images/XMXY-Logo.jpg" | relative_url }}" alt="Xiamen Xiangyu logo">
   </div>
   <ul>
-    <li>Conducted mining industry research within the Resources Business Division to support the Group's upstream supply-chain positioning, producing industry reports on antimony, lead and other mineral commodities and assessing mining rights investment targets.</li>
-    <li>Prepared an investment assessment report and preliminary recommendation for an iron ore project in Guangdong, evaluating it item by item against five investment criteria and a ten-point mining rights appraisal framework; identified compliance risks involving nature reserves and ecological public welfare forests, and delivered a due-diligence checklist and assessment roadmap.</li>
-    <li>Completed commodity research and in-depth reports on China's antimony and fluorspar sectors, distilling three investment rationales—scarcity, policy attributes and vertical integration—and establishing screening criteria covering resource reserves, grade and metallurgy, and policy and environmental compliance.</li>
-    <li>Produced an investment assessment report for an antimony–fluorspar associated mineral belt project in Yunnan; drawing on detailed exploration reports, identified substantial potential for further advancement while accounting for constraints such as reservoir inundation and shoreline management within water source protection areas, and concluded with a conditional follow-up recommendation.</li>
+    <li>Researched mineral markets and evaluated mining rights for potential investment, with a focus on upstream resource supply and strategic positioning.</li>
+    <li>Assessed a Guangdong iron ore project against investment criteria and a mining rights evaluation framework. Identified compliance risks involving nature reserves and ecological public welfare forests and prepared a due diligence checklist.</li>
+    <li>Analysed China's antimony and fluorspar markets, examining supply scarcity, policy developments and vertical integration opportunities. Developed screening criteria covering reserves, ore grade, processing requirements and regulatory constraints.</li>
+    <li>Evaluated an antimony and fluorite project in Yunnan using exploration reports. Assessed its resource potential alongside reservoir inundation and water source protection constraints, and formulated a conditional recommendation for further review.</li>
   </ul>
 </div>
 
@@ -68,10 +68,9 @@ title: Internships
     <img class="internship-logo" src="{{ "/images/pinestoneasset_log.png" | relative_url }}" alt="Pinestone Asset logo">
   </div>
   <ul>
-    <li>Participated in the full lifecycle of three new fund products, from drafting product specification sheets to post-issuance element changes, liquidation, and termination; maintained and updated backend databases and dashboards, leveraging AI agents to ensure data integrity and iteration.</li>
-    <li>Managed account opening, modification, and closure across 8 custodians, 6 brokerages, and 5 futures brokers; built and maintained product business ledgers; completed business data statistics, reconciliation, and accurate information updates; developed an internal AI agent skill for auto-receiving and broadcasting verification codes.</li>
-    <li>Liaised with custodians, brokers, and other external partners, coordinating cross-departmental (compliance, investment, operations) communication to drive business milestones; built an AI agent skill that auto-generates customized scripts from department SOP documents.</li>
-    <li>Reviewed 5+ weekly performance reports and 30+ business contracts; distilled SOP patterns to train an AI agent for automated weekly-report review; maintained 10+ department SOP documents.</li>
+    <li>Supported the full lifecycle of three fund products, including product documentation, post-issuance changes, liquidation and termination.</li>
+    <li>Coordinated account opening and maintenance across eight custodians, six brokerages and five futures brokers, while maintaining business records and reconciling data.</li>
+    <li>Developed AI-assisted workflows for routine business operations and reporting, and reviewed more than 30 business contracts and five weekly performance reports.</li>
   </ul>
 </div>
 
@@ -86,10 +85,10 @@ title: Internships
     <img class="internship-logo" src="{{ "/images/Zijin-Mining-Group-Company-Limited.png" | relative_url }}" alt="Zijin Mining Group logo">
   </div>
   <ul>
-    <li>Compiled reserves, grade, and mining parameters of the Zijinshan Cu–Au–Mo deposit; applied the Kriging algorithm to estimate mineral resources; co-authored the techno-economic chapter of the exploration report; built mine investment value and profitability models using commodity prices.</li>
-    <li>Used Wind, iFind, and other macro databases to research the full mining industry chain from exploration to smelting; analyzed mineral resource valuation logic from a financial perspective, gaining experience in mining industry research and fundamental analysis.</li>
-    <li>Used MapGIS and Section to produce drill-hole histograms and geological maps for Zijinshan and two peripheral deposits; standardized and archived geological data.</li>
-    <li>Participated in field geological surveys and deposit exploration; completed 7 geological route observations, 3 measured sections, and 2 core logs.</li>
+    <li>Estimated mineral resources at the Zijinshan Cu-Au-Mo deposit using the Kriging algorithm, drawing on reserve, grade and mining parameter data.</li>
+    <li>Co-authored the techno-economic assessment section of an exploration report and developed mine valuation and profitability models using commodity price assumptions.</li>
+    <li>Researched the mining value chain from exploration to smelting using Wind and iFind, examining resource valuation and the financial drivers of mining projects.</li>
+    <li>Produced geological maps and drill-hole sections for Zijinshan and two nearby deposits. Participated in field surveys, completing seven geological traverses, three measured sections and two core logs.</li>
   </ul>
 </div>
 
@@ -104,10 +103,10 @@ title: Internships
     <img class="internship-logo" src="{{ "/images/ZhongtaiSecurities.png" | relative_url }}" alt="Zhongtai Securities logo">
   </div>
   <ul>
-    <li>Built supply–demand balance sheets for PA66, caprolactam, and viscose staple fiber; collected and organized fine-chemical and fiber-chemical data; investigated the Jixi chemical industry and specific company information, tracking the latest chemical market dynamics.</li>
-    <li>Used Wind, iFind, and BaiChuan Yingfu databases to extract industry data; assisted in writing in-depth industry and company reports; built financial models for leading innovative-pharma companies such as Yangnong Chemical.</li>
-    <li>Co-authored the four-moat analysis of Yangnong Chemical with the mentor; published 2 in-depth industry research reports on Zhongtai Securities' investment column, covering caprolactam and PA6 via supply–demand balance sheets.</li>
-    <li>Communicated with clients to understand investment preferences and needs; produced 8+ customized roadshow PPTs.</li>
+    <li>Built supply-demand balance sheets for PA66, caprolactam and viscose staple fibre, tracking production capacity, market supply and demand dynamics across chemical and fibre markets.</li>
+    <li>Collected and analysed industry and company data using Wind, iFind and BaiChuan Yingfu. Contributed to industry and company research and financial modelling.</li>
+    <li>Co-authored a four-moat analysis of Yangnong Chemical and contributed to two published industry research reports on caprolactam and PA6.</li>
+    <li>Prepared more than eight customised roadshow presentations to communicate industry findings and investment insights to clients.</li>
   </ul>
 </div>
 
@@ -158,9 +157,8 @@ title: Internships
     <img class="internship-logo" src="{{ "/images/Eastmoney Securities_logo.png" | relative_url }}" alt="East Money logo">
   </div>
   <ul>
-    <li>Conducted demand research among 700+ on-campus users with financial interests, independently drafted a 7,000+ word project proposal, which was approved by both the company and the university.</li>
-    <li>Liaised with the university Youth League Committee and the Securities &amp; Futures Association to coordinate venues and materials, facilitating the on-campus launch of the "11th National College Student Financial Challenge"; completed the entire process from application to execution within just half a month.</li>
-    <li>Produced weekly competition data reports, analyzing operational effectiveness through metrics such as user activity and retention rates, and optimized community engagement strategies; ultimately attracted 200+ students to participate, ranking the university among the top 10 in South China for participant scale.</li>
-    <li>Managed a 300+ member competition community independently, daily sharing industry insights and competition guides, and was awarded the title of Outstanding Campus Partner by the company.</li>
+    <li>Conducted demand research among more than 700 students with financial interests and developed a 7,000-word proposal approved by the company and university.</li>
+    <li>Coordinated with university organisations and the Securities and Futures Association to launch a national student finance competition within two weeks of the application process.</li>
+    <li>Managed a community of more than 300 members and analysed participation, engagement and retention data. Attracted more than 200 participants and helped the university rank among the top 10 in South China by participant scale.</li>
   </ul>
 </div>
