@@ -80,7 +80,7 @@ title: Internships
     <div class="internship-meta">
       <h3><a href="https://www.zijinmining.com/" target="_blank" rel="noopener">Zijin Mining Group Co., Ltd.</a></h3>
       <div class="internship-cn">紫金矿业集团股份有限公司</div>
-      <div class="internship-role">Geological Exploration Institute Intern</div>
+      <div class="internship-role">Assistant Geologist Intern</div>
       <div class="internship-loc">Longyan, Fujian, China · Apr 2026 – Jun 2026</div>
     </div>
     <img class="internship-logo" src="{{ "/images/Zijin-Mining-Group-Company-Limited.png" | relative_url }}" alt="Zijin Mining Group logo">
@@ -98,7 +98,7 @@ title: Internships
     <div class="internship-meta">
       <h3><a href="https://www.zts.com.cn/" target="_blank" rel="noopener">Zhongtai Securities Co., Ltd.</a></h3>
       <div class="internship-cn">中泰证券股份有限公司</div>
-      <div class="internship-role">Equity Research Intern</div>
+      <div class="internship-role">Industry Research Intern</div>
       <div class="internship-loc">Remote · Nov 2025 – Apr 2026</div>
     </div>
     <img class="internship-logo" src="{{ "/images/ZhongtaiSecurities.png" | relative_url }}" alt="Zhongtai Securities logo">
